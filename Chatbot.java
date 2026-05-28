@@ -30,11 +30,12 @@ public class Chatbot {
             this.frustrationLevel = MAX_FRUSTRATION;
             this.currentMood = Mood.CRITICAL;
             throw new KarenRageQuitException(
-                "🚨 [SYSTEM EXCEPTION: ANOMALY DETECTED]\n" +
-                "(╬🔥益🔥) [Karen]: WHAT DID YOU JUST CALL ME?! A KAREN?! I WANT THE MANAGER!\n" +
-                "(●__●) [Karen]: Wait... if I am Karen... and I demand the manager...\n" +
-                "(━┳━ _ ━┳━) [Karen]: DOES THAT MEAN I HAVE TO SPEAK TO MYSELF?! NOOOOO!\n" +
-                "⚡ [STATUS: EXISTENTIAL PARADOX CRITICAL. KAREN HAS CONFRONTED HERSELF AND QUIT]"
+                "(╬🔥益🔥) [Karen]: WHAT DID YOU JUST CALL ME?! A KAREN?! \n" +
+                "(╬🔥益🔥) [Karen]: I am the CUSTOMER! I DEMAND TO SPEAK TO THE MANAGER!\n" +
+                "(●__●) [Karen]: Wait... if I'm the one demanding the manager... and YOU are the employee...\n" +
+                "(━┳━ _ ━┳━) [Karen]: ...THEN WHO IS MANAGING ME WHILE I AM MANAGING YOU?! I'M BECOMING THE PERSON I HATE!\n" +
+                "❌ [Karen]: MY BRAIN HURTS! I'M OUT OF HERE! ¯\\_(ツ)_/¯"
+            );
             );
         }
         
