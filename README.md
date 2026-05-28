@@ -10,7 +10,7 @@ She tracks her own "rage" as you talk, and if you say the wrong thing—or the r
 
 * **The Annoyance Meter:** Keeps track of how much you're bugging her.
 * **Volume Control:** If you type in ALL CAPS, she takes it as yelling and her rage jumps up.
-* **Trigger Words:** Mentioning "karen" or her name will trigger an existential crisis and an immediate crash.
+* **Trigger Words:** Mentioning "karen" it may or may not trigger an existential crisis and an immediate crash.
 * **The Rage Quit:** If her meter hits 10/10, she's done. Don't take it personally. 
 
 ## Running the project
