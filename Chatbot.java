@@ -5,7 +5,7 @@ public class Chatbot {
     // CAT: I added this enum to group the bot's distinct emotional states into clear, pre-defined categories.
     private enum Mood { ANNOYED, FURIOUS, CRITICAL }
 
-    // CAT: I made these variables private so that external code cannot accidentally bypass our rules or alter internal state values directly.
+    // CAT: I made these variables private so that external code can't accidentally bypass our rules or alter internal state values directly.
     private Mood currentMood;
     private int frustrationLevel;
     private final int MAX_FRUSTRATION = 10; // CAM: I set this constant to serve as a single, unchangeable ceiling value for maximum anger.
